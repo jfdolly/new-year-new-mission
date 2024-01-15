@@ -204,3 +204,55 @@
     width: 400px;
     height: 450px;
 }
+
+/* form related style */
+.form{
+    background-color:rgba(255, 0, 0, 0.05);
+    background-size: cover;
+    height: 600px;
+    border-radius: 16px;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin-top: 120px;
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-bottom: 40px;
+}
+.form-img{
+    width: 100px;
+    height: 100px;
+}
+.form-item{
+    padding-top: 100px;
+}
+.form-item-title{
+    font-size: 48px;
+    font-weight: 900;
+    padding-top: 50px;
+}
+.first{
+    padding-top: 16px;
+    font-size: 20px;
+    font-weight: 400;
+    padding-bottom: 40px;
+}
+
+.email{
+    width: 600px;
+    height: 50px;
+    border-radius: 50px;
+    border: 0;
+    padding-left: 20px;
+}
+.btn2{
+    width: 120px;
+    height: 50px;
+    background-color: #F00;
+    color: #FFF;
+    padding: 10px 20px 10px 20px;
+    border: 0;
+    position: relative;
+    right: 100px;
+    border-radius: 0px 50px 50px 0px;
+
+}
