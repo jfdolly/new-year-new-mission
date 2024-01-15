@@ -158,3 +158,49 @@
     font-size: 20px;
     font-weight: 700px;
 }
+
+/* gift related style */
+.gift{
+    text-align: left;
+    margin-left: 140px;
+    margin-top: 120px;
+}
+.gift-title{
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500px;
+}
+.gift-title2{
+    color: black;
+    font-size: 48px;
+    font-weight: 900px;
+    padding-top: 16px;
+    padding-bottom: 20px;
+}
+.gift-description{
+    color: gray;
+    font-size: 20px;
+    font-weight: 400px;
+}
+.gift-pic{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 140px;
+    margin-right: 140px;
+    gap: 12px;
+}
+.gift-pic2{
+    margin-top: 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 140px;
+    margin-right: 140px;
+    gap: 12px;
+}
+.gift-img{
+    width: 400px;
+    height: 450px;
+}
