@@ -35,3 +35,35 @@
     font-size: 32px;
     font-weight: 400;
 }
+
+/* deal related style */
+.deal{
+    margin-top: 120px;
+}
+.off{
+    font-size: 88px;
+    font-weight: 800px;
+    text-align: center;
+    color: #F00;
+}
+.our{
+    font-size: 24px;
+    font-weight: 500px;
+    text-align: center;
+    color: #F00;
+    padding-top: 40px;
+    padding-bottom: 16px;
+}
+.all{
+    font-size: 48px;
+    font-weight: 700px;
+    text-align: center;
+    color: #070211;
+}
+.img{
+    width: 800px;
+    height: 500px;
+    padding-top: 40px;
+    margin-left: 350px;
+    
+}
